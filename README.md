@@ -1,4 +1,5 @@
 # Сегментация изображений на основе архитектуры UNet++. 
+![UNet](https://github.com/klon-22800/unet_plus_plus_segmentation/blob/main/graphics/Unet%2B%2B.png)
 ## Стек:
 Tensorflow, scikit-learn, Numpy, opencv, Pillow.
 ## Датасет
@@ -9,9 +10,9 @@ Tensorflow, scikit-learn, Numpy, opencv, Pillow.
 ![Median blur](https://github.com/klon-22800/unet_plus_plus_segmentation/blob/main/graphics/median%20blur.png)
 ## Метрики 
 Основной метрикой при анализе был коэффициент IoU:
-![IoU](https://quicklatex.com/cache3/e0/ql_2e94206e0c3ecb2dd8c141394cb728e0_l3.png)
+![IoU](https://github.com/klon-22800/unet_plus_plus_segmentation/blob/main/graphics/IoU.png)
 В качестве функции потерь:
-![Focal Dice loss](https://quicklatex.com/cache3/3e/ql_b481f5109391080e547650620dc1dc3e_l3.png)
+![Focal Dice loss](https://github.com/klon-22800/unet_plus_plus_segmentation/blob/main/graphics/FDL.png)
 
 ## Итоговые метрики: 
 ![Metrics](https://github.com/klon-22800/unet_plus_plus_segmentation/blob/main/graphics/unet%2B%2B%20250.png)
