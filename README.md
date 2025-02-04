@@ -1,7 +1,11 @@
 # Сегментация изображений на основе архитектуры UNet++. 
-![UNet](https://github.com/klon-22800/unet_plus_plus_segmentation/blob/main/graphics/Unet%2B%2B.png)
 ## Стек:
 Tensorflow, scikit-learn, Numpy, opencv, Pillow.
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+## Описание: 
+Проект представляет собой реализацию нейронной сети для сегментации зданий и деревьев на геоснимках. Модель основана на архитектуре UNet++, которая является улучшенной версией классической UNet и обеспечивает более точную сегментацию за счёт вложенных и плотных skip-connections.
+![UNet](https://github.com/klon-22800/unet_plus_plus_segmentation/blob/main/graphics/Unet%2B%2B.png)
+
 ## Датасет
 Изображения 256×256 (3 канала) и соответствующие бинарные маски (1 – объект сегментации, 0 – фон). 
 ![Dataset example](https://github.com/klon-22800/unet_plus_plus_segmentation/blob/main/graphics/dataset%20example.png)
