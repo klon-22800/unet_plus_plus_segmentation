@@ -10,6 +10,9 @@ Tensorflow, scikit-learn, Numpy, opencv, Pillow.
 ## Метрики 
 Основной метрикой при анализе был коэффициент IoU:
 ![IoU](https://quicklatex.com/cache3/e0/ql_2e94206e0c3ecb2dd8c141394cb728e0_l3.png)
+<div style="background-color: white; display: inline-block;">
+    <img src="https://quicklatex.com/cache3/e0/ql_2e94206e0c3ecb2dd8c141394cb728e0_l3.png" alt="Описание изображения">
+</div>
 В качестве функции потерь:
 ![Focal Dice loss](https://quicklatex.com/cache3/3e/ql_b481f5109391080e547650620dc1dc3e_l3.png)
 
