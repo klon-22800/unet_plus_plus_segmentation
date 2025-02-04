@@ -15,4 +15,5 @@ Tensorflow, scikit-learn, Numpy, opencv, Pillow.
 
 ## Итоговые метрики: 
 ![Metrics](https://github.com/klon-22800/unet_plus_plus_segmentation/blob/main/graphics/unet%2B%2B%20250.png)
+![Map of errors](https://github.com/klon-22800/unet_plus_plus_segmentation/blob/main/graphics/map_of_errors.png)
 ![test](https://github.com/klon-22800/unet_plus_plus_segmentation/blob/main/graphics/Performance%20Metrics%20for%20Models.png)
