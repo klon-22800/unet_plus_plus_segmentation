@@ -48,4 +48,8 @@
 [Предсказанная маска](https://github.com/klon-22800/unet_plus_plus_segmentation/blob/main/check/big_tlt_check_250.png)
 ![Map of errors](https://github.com/klon-22800/unet_plus_plus_segmentation/blob/main/graphics/map_of_errors.png)
 
+## Пример работы: 
+![Results](https://github.com/klon-22800/unet_plus_plus_segmentation/blob/main/graphics/result.png)
+[Итоговое изображение](https://github.com/klon-22800/unet_plus_plus_segmentation/blob/main/check/big_tlt_check_100_t_o.png)
+
 ![test](https://github.com/klon-22800/unet_plus_plus_segmentation/blob/main/graphics/Performance%20Metrics%20for%20Models.png)
